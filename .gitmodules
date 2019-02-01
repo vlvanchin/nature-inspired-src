@@ -1,0 +1,3 @@
+[submodule "themes/themes"]
+	path = themes/themes
+	url = git@github.com:jesselau76/hugo-w3-simple.git

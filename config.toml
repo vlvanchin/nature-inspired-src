@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://vlvanchin.github.io/nature-bites/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # en / zh-CN / ... (This field determines which i18n file to use)
 title = "Hugo W3 Simple Theme"

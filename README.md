@@ -1,1 +1,1 @@
-# nature-bites
+# nature-inspired

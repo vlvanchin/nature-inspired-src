@@ -15,7 +15,7 @@ contentDir = "content/english"
 [languages.en.params]
       authorinfo = "<h4>Authored By Vanchin</h4>"
       licenseinfo = "<p class=\"w3-small\">Vanchin, someone who likes to bring nature's most amazing things that he has experienced is this life. You might like <a rel=\"contact\" href=\"https://vlvanchin.github.io\" class=\"w3-text-white\">reach out to vanchin</a>.</p>"
-      logotext = "Nature Bites" # logo text
+      logotext = "Nature Inspired" # logo text
       isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
       isso_langcode="en"
       cookie_info = "This website uses cookies to ensure you get the best experience on our website. [Learn more](/privacy-policy/)"
@@ -51,7 +51,7 @@ contentDir = "content/tamil"
 [languages.ta-in.params]
       authorinfo = "<h4>Authored By John Doe</h4>"
       licenseinfo = "<p class=\"w3-small\">John Doe, a good man living on the earth, loving making website with hugo. This article is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\" class=\"w3-text-white\">Creative Commons Attribution 4.0 International License</a>.</p>"
-      logotext = "Nature Bites" # logo text
+      logotext = "Nature Inspired" # logo text
       isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
       isso_langcode="en"
       cookie_info = "This website uses cookies to ensure you get the best experience on our website. [Learn more](/privacy-policy/)"

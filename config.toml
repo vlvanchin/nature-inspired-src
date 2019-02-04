@@ -1,4 +1,4 @@
-baseurl = "https://vlvanchin.github.io/nature-inspired/"
+baseurl = "http://nature-inspired.s3-website-ap-southeast-1.amazonaws.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # en / ta-in / ... (This field determines which i18n file to use)
 title = "Nature Inspired"

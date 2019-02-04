@@ -1,7 +1,7 @@
-baseurl = "https://vlvanchin.github.io/nature-bites/"
+baseurl = "https://vlvanchin.github.io/nature-inspired/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # en / ta-in / ... (This field determines which i18n file to use)
-title = "Nature Bites"
+title = "Nature Inspired"
 theme = "hugo-w3-simple"
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X

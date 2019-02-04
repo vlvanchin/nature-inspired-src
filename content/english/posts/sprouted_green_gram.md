@@ -27,6 +27,6 @@ thumbnail: images/food/sprouted_green_gram.png
 
 * leave it for 8 hours
 
-* now it is ready to eat. :)
+* now it is ready to eat. Note: you may want to add brown sugar is an option. :)
 
 

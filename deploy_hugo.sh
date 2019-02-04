@@ -28,6 +28,13 @@ cd ../nature-inspired
 git add .
 git commit -s -m "website updated"
 git push origin master
+cd ../nature-inspired-src
+
+cd ..
+echo -e "\tuploading to AWS s3 bucket 'nature-inspired'"
+echo -e "\t\tuse --dryrun option to test"
+aws s3 cp --recursive nature-inspired s3://nature-inspired/ 
+cd nature-inspired-src
 
 echo "script done"
 

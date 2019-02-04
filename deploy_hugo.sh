@@ -11,12 +11,15 @@ fi
 
 #echo -e "\tdeleting old contents in vlvanchin.github.io/nature-inspired"
 cd ../nature-inspired
+
+git checkout master
 if [ $(ls -al | wc -l) -gt 4 ] ; then
   rm -fr * 
 fi
 
 cd ../nature-inspired-src
 
+git checkout master
 echo -e "\tbuilding site with hugo"
 hugo -d ../nature-inspired
 

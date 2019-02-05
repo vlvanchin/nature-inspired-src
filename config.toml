@@ -99,7 +99,7 @@ contentDir = "content/tamil"
     # adsenseid="ca-pub-123456789"
     allowads = true
     logotext = "HUGO W3 SIMPLE" # logo text
-    footer = "&copy; [Vanchin](https://vlvanchin.com) 2018 | [Github](https://github.com/vlvanchin) | [Twitter](https://twitter.com/vlvanchin)  | [RSS](/index.xml)"
+    footer = "&copy; [Vanchin](https://vlvanchin.github.io) 2018 | [Github](https://github.com/vlvanchin) | [Twitter](https://twitter.com/vlvanchin)  | [RSS](/index.xml)"
 
 
 [params.social]  # Set your social account here, if you don't have some accounts just comment them

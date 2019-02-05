@@ -22,20 +22,20 @@ contentDir = "content/english"
    
 [[languages.en.menu.main]]
     name = "About"
-    url = "about/"
+    url = "/about/"
     weight = 2
 [[languages.en.menu.main]]
     name = "Categories"
-    url = "categories/"
+    url = "/categories/"
     weight = 3
 [[languages.en.menu.main]]
     name = "Tags"
-    url = "tags/"
+    url = "/tags/"
     weight = 4
 
 [[languages.en.menu.main]]
     name = "All Posts"
-    url = "allposts/"
+    url = "/allposts/"
     weight = 5
 [[languages.en.menu.main]]
     name = "Tamil"
@@ -49,8 +49,8 @@ languageName = "Tamil"
 contentDir = "content/tamil"
 
 [languages.ta-in.params]
-      authorinfo = "<h4>Authored By John Doe</h4>"
-      licenseinfo = "<p class=\"w3-small\">John Doe, a good man living on the earth, loving making website with hugo. This article is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\" class=\"w3-text-white\">Creative Commons Attribution 4.0 International License</a>.</p>"
+      authorinfo = "<h4>Authored By Vanchin</h4>"
+      licenseinfo = "<p class=\"w3-small\">Vanchin, a good man living on the earth, loving making website with hugo. This article is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\" class=\"w3-text-white\">Creative Commons Attribution 4.0 International License</a>.</p>"
       logotext = "Nature Inspired" # logo text
       isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
       isso_langcode="en"
@@ -58,20 +58,20 @@ contentDir = "content/tamil"
    
 [[languages.ta-in.menu.main]]
     name = "TamilTamil"
-    url = "about/"
+    url = "/about/"
     weight = 2
 [[languages.ta-in.menu.main]]
     name = "Tamil Category"
-    url = "categories/"
+    url = "/categories/"
     weight = 3
 [[languages.ta-in.menu.main]]
     name = "Tamil Tags"
-    url = "tags/"
+    url = "/tags/"
     weight = 4
 
 [[languages.ta-in.menu.main]]
     name = "Tamil All Posts"
-    url = "allposts/"
+    url = "/allposts/"
     weight = 5
 [[languages.ta-in.menu.main]]
     name = "English"
@@ -99,26 +99,24 @@ contentDir = "content/tamil"
     # adsenseid="ca-pub-123456789"
     allowads = true
     logotext = "HUGO W3 SIMPLE" # logo text
-    footer = "&copy; [John Doe](https://johndoe.com) 2018 | [Github](https://github.com/johndoe) | [Twitter](https://twitter.com/johndoe)  | [RSS](/index.xml)"
+    footer = "&copy; [Vanchin](https://vlvanchin.com) 2018 | [Github](https://github.com/vlvanchin) | [Twitter](https://twitter.com/vlvanchin)  | [RSS](/index.xml)"
 
 
 [params.social]  # Set your social account here, if you don't have some accounts just comment them
-    a-envelope = "mailto:your@email.com"
-    b-stack-overflow ="https://stackoverflow.com/users/12345678/john-doe"
-    c-twitter = "https://twitter.com/johndoe"
-    d-facebook = "https://www.facebook.com/johndoe"
-    e-github = "https://github.com/johndoe"
-    f-youtube = "https://www.youtube.com/channel/12345678"
-    g-linkedin = "https://www.linkedin.com/johndoe"
-    h-google = "https://plus.google.com/12345678"
-    i-github = "https://github.com/johndoe"
-    j-weibo = "https://weibo.com" 
-    k-weixin = "http://localhost:1313" 
-    l-tumblr = "https://www.tumblr.com/blog/johndoe"
-    m-instagram = "https://instagram.com/johndoe"
-    n-gitlab = "https://gitlab.com/johndoe"
-    o-pinterest = "https://www.pinterest.com/johndoe/"
+#    a-envelope = "mailto:your@email.com"
+#    b-stack-overflow ="https://stackoverflow.com/users/12345678/john-doe"
+    c-twitter = "https://twitter.com/vlvanchin"
+#    d-facebook = "https://www.facebook.com/vlvanchin"
+#    e-github = "https://github.com/vlvanchin"
+#    f-youtube = "https://www.youtube.com/channel/12345678"
+    g-linkedin = "https://www.linkedin.com/vlvanchin"
+#    h-google = "https://plus.google.com/12345678"
+    i-github = "https://github.com/vlvanchin"
+#    j-weibo = "https://weibo.com" 
+#    k-weixin = "http://localhost:1313" 
+#    l-tumblr = "https://www.tumblr.com/blog/vlvanchin"
+#    m-instagram = "https://instagram.com/vlvanchin"
+#    n-gitlab = "https://gitlab.com/vlvanchin"
+#    o-pinterest = "https://www.pinterest.com/vlvanchin/"
    
     
-    
-

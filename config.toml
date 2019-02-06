@@ -58,20 +58,20 @@ contentDir = "content/tamil"
    
 [[languages.ta-in.menu.main]]
     name = "TamilTamil"
-    url = "/about/"
+    url = "/ta-in/about/"
     weight = 2
 [[languages.ta-in.menu.main]]
     name = "Tamil Category"
-    url = "/categories/"
+    url = "/ta-in/categories/"
     weight = 3
 [[languages.ta-in.menu.main]]
     name = "Tamil Tags"
-    url = "/tags/"
+    url = "/ta-in/tags/"
     weight = 4
 
 [[languages.ta-in.menu.main]]
     name = "Tamil All Posts"
-    url = "/allposts/"
+    url = "/ta-in/allposts/"
     weight = 5
 [[languages.ta-in.menu.main]]
     name = "English"

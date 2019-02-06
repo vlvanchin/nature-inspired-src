@@ -10,7 +10,7 @@ tags:
 - pea tea
 - blue blood
 draft: false
-thumbnail: images/food/butterfly_pea_tea.png
+thumbnail: images/drink/butterfly_pea_tea.png
 
 ---
 
